@@ -8,7 +8,7 @@
 
   <project name="platform" path="auto-t113-linux/platform" remote="MyirPublic" revision="39ad59ebabbe88aa4f25acced68d55daaa95c32d"/>
   <project name="framework" path="auto-t113-linux/platform/framework" remote="MyirPublic" revision="30ef4a56c8a8aa487c1991e41c0bd1202abb44ed"/>
-  <project name="test" path="auto-t113-linux/test" remote="MyirPublic" revision="9f41f6730431c961c0b2b87bde12fa59e78d62f8"/>
+  <project name="test" path="auto-t113-linux/test" remote="MyirPublic" revision="46c4c0afeadbe9e8ba7afdd59c30189772caf3cb"/>
   <project name="tools" path="auto-t113-linux/tools" remote="MyirPublic" revision="5fed8a51b30eeb67334ae78631a02abc0d394ea1"/>
   <project name="brandy-2.0" path="auto-t113-linux/brandy/brandy-2.0" remote="MyirPublic" revision="b1072667e4e3109532148706b82e666b8ae2a189"/>
   <project name="build" path="auto-t113-linux/build" remote="MyirPublic" revision="a3fddab0087edd37dc08241f4c4cf2e400d10e01"/>
@@ -18,7 +18,7 @@
   <project name="toolchain" path="auto-t113-linux/build/toolchain" remote="NicoPublic" revision="8ccf5a5080f8c2e23ada12011dc755b47546de87"/>
   <project name="build.sh" path="auto-t113-linux/" remote="MyirPublic" revision="9f41f6730431c961c0b2b87bde12fa59e78d62f8"/>
 
-  <project name="myir-t3-kernel" path="auto-t113-linux/kernel/linux-5.4" remote="MyirPublic" revision="8ca9bc9ecb0d283ee238c5c1641a5008329ed6c3"/>
+  <project name="myir-t3-kernel" path="auto-t113-linux/kernel/linux-5.4" remote="MyirPublic" revision="8304e47f21a057a9c46f2bc32c6e39a3d7649709"/>
   <project name="myir-t3-buildroot" path="auto-t113-linux/buildroot/buildroot-201902" remote="MyirPublic" revision="df960654ef83c42d8a5556bd19aa7fbc84b11886"/>
   <project name="myir-t3-uboot" path="auto-t113-linux/brandy/brandy-2.0/u-boot-2018" remote="MyirPublic" revision="10a2200127795d963705cd5e0597614c66d01f04"/>
 	  
