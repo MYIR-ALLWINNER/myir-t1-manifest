@@ -20,6 +20,6 @@
 
   <project name="myir-t3-kernel" path="auto-t113-linux/kernel/linux-5.4" remote="MyirPublic" revision="8304e47f21a057a9c46f2bc32c6e39a3d7649709"/>
   <project name="myir-t3-buildroot" path="auto-t113-linux/buildroot/buildroot-201902" remote="MyirPublic" revision="df960654ef83c42d8a5556bd19aa7fbc84b11886"/>
-  <project name="myir-t3-uboot" path="auto-t113-linux/brandy/brandy-2.0/u-boot-2018" remote="MyirPublic" revision="10a2200127795d963705cd5e0597614c66d01f04"/>
+  <project name="myir-t3-uboot" path="auto-t113-linux/brandy/brandy-2.0/u-boot-2018" remote="MyirPublic" revision="c77ccc92d557f129c294957570d349deecbfa99c"/>
 	  
 </manifest>
