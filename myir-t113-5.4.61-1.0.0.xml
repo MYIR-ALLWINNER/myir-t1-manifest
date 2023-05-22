@@ -10,7 +10,7 @@
   <project name="framework" path="auto-t113-linux/platform/framework" remote="MyirPublic" revision="30ef4a56c8a8aa487c1991e41c0bd1202abb44ed"/>
   <project name="test" path="auto-t113-linux/test" remote="MyirPublic" revision="46c4c0afeadbe9e8ba7afdd59c30189772caf3cb"/>
   <project name="tools" path="auto-t113-linux/tools" remote="MyirPublic" revision="5fed8a51b30eeb67334ae78631a02abc0d394ea1"/>
-  <project name="brandy-2.0" path="auto-t113-linux/brandy/brandy-2.0" remote="MyirPublic" revision="b1072667e4e3109532148706b82e666b8ae2a189"/>
+  <project name="brandy-2.0" path="auto-t113-linux/brandy/brandy-2.0" remote="MyirPublic" revision="ffa6602eba4412651d1070e315c4009855ee47f8"/>
   <project name="build" path="auto-t113-linux/build" remote="MyirPublic" revision="a3fddab0087edd37dc08241f4c4cf2e400d10e01"/>
   <project name="device" path="auto-t113-linux/device" remote="MyirPublic" revision="89823283cf4ca079ec051430bf5d59646ffa3dff"/>
 
