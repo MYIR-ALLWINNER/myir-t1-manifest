@@ -7,7 +7,7 @@
 	<default remote="MyirPublic"/>
 
   <project name="platform" path="auto-t113-linux/platform" remote="MyirPublic" revision="39ad59ebabbe88aa4f25acced68d55daaa95c32d"/>
-  <project name="framework" path="auto-t113-linux/platform/framework" remote="MyirPublic" revision="30ef4a56c8a8aa487c1991e41c0bd1202abb44ed"/>
+  <project name="framework" path="auto-t113-linux/platform/framework" remote="MyirPublic" revision="80c4b4402f21c90a9d5c6c81e4c7d4aea4f736a8"/>
   <project name="test" path="auto-t113-linux/test" remote="MyirPublic" revision="46c4c0afeadbe9e8ba7afdd59c30189772caf3cb"/>
   <project name="tools" path="auto-t113-linux/tools" remote="MyirPublic" revision="5fed8a51b30eeb67334ae78631a02abc0d394ea1"/>
   <project name="brandy-2.0" path="auto-t113-linux/brandy/brandy-2.0" remote="MyirPublic" revision="ffa6602eba4412651d1070e315c4009855ee47f8"/>
