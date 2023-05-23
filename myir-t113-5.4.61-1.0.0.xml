@@ -6,7 +6,7 @@
 
 	<default remote="MyirPublic"/>
 
-  <project name="platform" path="auto-t113-linux/platform" remote="MyirPublic" revision="39ad59ebabbe88aa4f25acced68d55daaa95c32d"/>
+  <project name="platform" path="auto-t113-linux/platform" remote="MyirPublic" revision="cafc03c96b2a0614cffe8be6c89a91381f7a35be"/>
   <project name="framework" path="auto-t113-linux/platform/framework" remote="MyirPublic" revision="80c4b4402f21c90a9d5c6c81e4c7d4aea4f736a8"/>
   <project name="test" path="auto-t113-linux/test" remote="MyirPublic" revision="46c4c0afeadbe9e8ba7afdd59c30189772caf3cb"/>
   <project name="tools" path="auto-t113-linux/tools" remote="MyirPublic" revision="5fed8a51b30eeb67334ae78631a02abc0d394ea1"/>
