@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="ssh://github.com/MYIR-ALLWINNER" name="MyirPublic"/>
+
+	<default remote="MyirPublic"/>
+
+  <project name="platform" path="auto-t113-linux/platform" remote="MyirPublic" revision="709b4e5ba3af640aa095a11ebef98a5a3a6d2326"/>
+  <project name="framework" path="auto-t113-linux/platform/framework" remote="MyirPublic" revision="995d33c78d6a35aa4da764bfc362b6f9e5e5b23d"/>
+  <project name="test" path="auto-t113-linux/test" remote="MyirPublic" revision="ff46aca1c4accefbd8fab5ac82102ba19972d95f"/>
+  <project name="tools" path="auto-t113-linux/tools" remote="MyirPublic" revision="d715770631b75044bee621409b53d77b9fded66b"/>
+  <project name="brandy-2.0" path="auto-t113-linux/brandy/brandy-2.0" remote="MyirPublic" revision="ca13c8c5a68fc2262308bf0a5174091340a6a480"/>
+  <project name="build" path="auto-t113-linux/build" remote="MyirPublic" revision="35281b47ca64643c0a3cdf9ae744392400834238"/>
+  <project name="device" path="auto-t113-linux/device" remote="MyirPublic" revision="13ba3c722435d8814e076d4ac3a02e2d0ff19f6d"/>
+  <project name="build.sh" path="auto-t113-linux/" remote="MyirPublic" revision="9fad3fe15a0e5cd3528d25854faee44dac22d862"/>
+
+  <project name="myir-t1-kernel" path="auto-t113-linux/kernel/linux-5.4" remote="MyirPublic" revision="32f427c9713662c283a96c5ddf3ff6ddc2c1b267"/>
+  <project name="myir-t1-buildroot" path="auto-t113-linux/buildroot/buildroot-201902" remote="MyirPublic" revision="43900653b0210a1a62043daa7741e76476a0402c"/>
+  <project name="myir-t1-uboot" path="auto-t113-linux/brandy/brandy-2.0/u-boot-2018" remote="MyirPublic" revision="9492f629d82c8b42b7c4181638f13323588f3160"/>
+
+</manifest>
